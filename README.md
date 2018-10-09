@@ -4,4 +4,4 @@ This python script is aimed to provide a basic understanding of blockchain, and 
 
 The command to run this script is:
 
-`$python blockchain.py
+`$python blockchain.py`
